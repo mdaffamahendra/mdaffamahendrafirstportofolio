@@ -63,4 +63,12 @@ body {
         width: 260px;
         height: 210px;
     }
+
+    .nama {
+        font-size: 1.2rem;
+    }
+
+    .deskripsi-thumbnail {
+        font-size: .8rem;
+    }
 }
